@@ -1,0 +1,215 @@
+Title: Home
+
+----
+
+Subheading: Critically studying Wikimedia as infrastructure
+
+----
+
+Publishdate: 2024-12-14
+
+----
+
+Introduction: <p>In an age where Wikimedia operates as public knowledge infrastructure, we must ask new questions concerning open data, public knowledge, the agency of Wikimedia contributors, and the outcomes of their labour. Here, we present 10 principles for researchers working to understand Wikimedia’s role in the global knowledge environment.&nbsp;</p>
+
+----
+
+Principles:
+
+- 
+  heading: Map the dispossession of the commons
+  description: '<p>We witness the ongoing struggle to determine what it means for information to be "free" and for whom this freedom generates value. We follow Wikimedian data as it circulates within techno-legal regimes of the public domain, copyright, and intellectual property law in ways that provide radical openings and concerning enclosures that alienate the altruism of community labour.</p>'
+- 
+  heading: >
+    Recognise Wikimedia’s role as a hub of
+    global knowledge infrastructure
+  description: '<p>We trace how Wikimedia projects intersect, combine, and feed into other applications, platforms, systems, and knowledge institutions. We work to understand how Wikimedia operates at the level of knowledge infrastructure, supplying and being supplied by data that affects the coverage of topics far from the Wikimedia platform. We also examine how its existence is influenced by the ready supply of volunteer labour, expertise, and funding.</p>'
+- 
+  heading: Examine power relations
+  description: "<p>We investigate the power relations that characterise Wikimedia's global community and stakeholders, including the Wikimedia Foundation. We also critically examine the role that these power relations play in Wikimedia as a knowledge institution, which results in ideological biases and epistemic gaps in the platform and manifests its own kinds of digital politics.</p>"
+- 
+  heading: >
+    Explore the juxtapositions of Wikimedia
+    policies and practices
+  description: '<p>We explore the differences between ideal rhetoric – or what Wikimedia says it wants to be – and what Wikimedia is, i.e., the actual practices that have emerged, accumulated, and calcified over time. We ask how Wikimedia’s practices and outcomes differ depending on contexts and the positions within the infrastructure that the activity is located.</p>'
+- 
+  heading: >
+    Investigate linguistic and cultural
+    plurality
+  description: '<p>The English-language Wikipedia, for example, does not stand-in for all of Wikipedia or all the other Wikimedia projects including Wikidata or Wikimedia Commons. We work to understand how different Wikimedia language versions and projects reflect different kinds of problems, puzzles, and ways of knowing that stem from differences in culture, scale, resourcing, and objectives.</p>'
+- 
+  heading: Assess the implications of algorithms
+  description: '<p>We study the role of AI models and algorithms in shaping the production, circulation, and reception of Wikimedia projects and data. Studies of production include bots and bespoke code such as templates that frame subjects and direct editorial activity. Circulation studies include applications such as chatbots, search rankings, and recommendation systems that shape sustainability, knowledge integrity, and information discovery for Wikimedia projects. Reception studies analyse how users across the web who interact with Wikimedia data via search engines, social media platforms, chatbots, as well as galleries, libraries, archives, and museums interpret and make meaning from the Wikimedia data they encounter.</p>'
+- 
+  heading: "Historicise Wikimedia's epistemology"
+  description: |
+    <p>We examine Wikipedia and Wikimedia's epistemological foundations, including its emphasis on consensus, neutrality, and the "verifiability, not truth" policy. Likewise, we examine how the project of Wikimedia has inherited ideas from the Enlightenment, historical practices of encyclopaedic production, and twentieth-century dreams of technocratic governance. We consider how these principles and histories influence knowledge representation and other epistemic institutions and activities.</p>
+- 
+  heading: >
+    Study Wikimedia’s data as partial,
+    temporary, fallible and shifting
+  description: '<p>We resist treating facts, information, and policies as finalised, even though data’s fluctuation does not mean it has less impact on those it represents, however fleetingly.</p>'
+- 
+  heading: Situate research practice
+  description: '<p>We reflect on our positionality as researchers based in particular places, with particular understandings and theories of knowledge, and in positions of power concerning global knowledge systems. This also means being cognisant of the ethics of studying online spaces as groups of people and not just as text, information, or data.</p>'
+- 
+  heading: >
+    Build a shared project of critical
+    investigation across disciplines
+  description: '<p>We encourage researchers from different fields to discuss, debate, and conduct critical research about Wikimedia data. Importantly, new research questions demand that old methods be repurposed and that new methods be developed, ones that are sensitive to the diverse socio-technical situations of Wikimedia data and recognise its inherently qualitative and quantitative nature, thereby opening pathways for innovative mixed-methods research approaches These conditions make drawing on each other’s disciplinary strengths necessary to stay attentive to research gaps and methodological oversights.</p>'
+
+----
+
+Background1: <p>A manifesto for Wikimedia research was formulated at a meeting of critical, humanist Wikimedia researchers in Brisbane, 2024. We gathered to discuss Wikimedia’s changing role “and/as data” as Wikipedia and its sister sites have become increasingly important as a foundation of knowledge circulating via AI tools. We asked: “What would need to change in our research practice if we accepted that Wikimedia has become public knowledge infrastructure?”</p>
+
+----
+
+Background2: <p>Founded in 2001, Wikipedia quickly became one of the most critical sources of knowledge about the world, defining what counts as the consensus truth about people, places, events, and other phenomena for a generation. Over two decades later, Wikipedia has been joined by other sites under the Wikimedia banner, offering a range of free images, books, definitions and data and establishing the goal of becoming “essential infrastructure of the ecosystem of free knowledge” by 2030 (Wikimedia Foundation, <u><a href="https://meta.wikimedia.org/wiki/Movement_Strategy">2030 Movement Strategy</a></u>).&nbsp;&nbsp;</p><p>In 2011, the Critical Point of View (CPoV) project established a new way of thinking about Wikipedia that emphasised the platform’s socio-cultural, political, and economic implications, calling for “an informed, radical critique from the inside.” Since then, Wikipedia (and other projects under the purview of Wikimedia) has become an accepted public resource of general information, a primary data source for knowledge graphs and now generative AI models.&nbsp;</p><p>Wikimedia projects are generally recognised as readily available data sources for public research and private extraction. But the circulation of this data without a critical understanding of how it is being produced can lead to Wikipedia’s socio-cultural biases becoming exacerbated. In an age where Wikimedia operates as public knowledge infrastructure, it is necessary to rekindle the critical spirit of CPoV i.e. where critique is in aid of specific understandings of current issues and problems, rather than wholesale, knee-jerk negativity or conservatism.&nbsp;</p><p>Recognising and investigating Wikimedia's implications for shaping public understanding of issues, debates, and controversies across various domains, we present 10 principles for Wikimedia researchers working to understand its role in the global information and knowledge ecosystem. The manifesto is a call to “Together, interrogate and reconstitute Wikimedia as public knowledge infrastructure”.</p>
+
+----
+
+Contributors:
+
+- 
+  name: Dr Heather Ford
+  bio: '<p>Dr Heather Ford is a writer, scholar and designer of public knowledge technologies. Her research focuses on the social implications of digital media technologies and the ways in which they might be better designed and regulated to prevent disinformation, social exclusion, and epistemic injustice. She currently works as an Australian Research Council Future Fellow at the University of Technology Sydney where she is working to facilitate public responses to AI literacy.</p>'
+  image:
+    - file://IKTYN8et3X6yShG2
+  heading: ""
+  description: ""
+- 
+  name: Dr Bunty Avieson
+  bio: '<p>Dr Bunty Avieson is a Senior Lecturer and Research Fellow (ARC) in the Discipline of Media and Communications at University of Sydney. Her research investigates Wikipedia as a site for knowledge construction and cultural resilience, and she is Chief Investigator on a DECRA-funded project to develop Dzongkha language Wikipedia in Bhutan. Her work considers the intersection of orality, literacy and digitality, and the applicability of the Gutenberg Parenthesis theory.</p>'
+  image:
+    - file://VQsc9ettbBWMZ3VB
+- 
+  name: Dr Francesco Bailo
+  bio: '<p>Dr Francesco Bailo is lecturer in Data Analytics in the School of Social and Political Sciences at the University of Sydney, where is also deputy director of the Centre for AI, Trust and Governance. His research intersects digital media, political communication, and computational social science. His work primarily explores the dynamics of online political participation and the impact of social media on political discourse.</p>'
+  image:
+    - file://pr3A2uIaIJ73dE72
+- 
+  name: Dr Michael Davis
+  bio: '<p>Dr Michael Davis is research fellow at the UTS Centre for Media Transition, where he leads the information integrity research program. Combining an academic background in philosophy and practical experience in digital platform regulation, Michael’s research applies ideas from social epistemology to problems of information integrity. His current work focuses on the challenge of balancing platform accountability and freedom of expression in misinformation regulation, and on the impact of generative AI on the information ecosystem, including open knowledge infrastructure such as Wikipedia.</p>'
+  image:
+    - file://H4BrYhqsSq02uB4c
+- 
+  name: Dr Michael Falk
+  bio: '<p>Dr Michael Falk is Senior Lecturer in Digital Studies at the University of Melbourne. He is the author of <em>Romanticism and the Contingent Self</em> (Palgrave, 2024), which uses digital methods to explore the language of subjectivity in Romantic literature. He is the author of numerous articles on Artificial Intelligence, Book History, Digital Humanities and similar topics. He is a Chief Investigator on the <em>wikihistories</em> project.</p>'
+  image:
+    - file://JZKCGWrW4aDQnmyO
+- 
+  name: Dr Sohyeon Hwang
+  bio: '<p>Dr Sohyeon Hwang is a postdoctoral fellow at the Center for Information Technology Policy at Princeton University. Her work focuses on communities as a valuable point of organising to anticipate and respond to the potential harms of sociotechnical systems. In her projects, she leverages mixed methods to understand how community governance can be better supported so that everyday people have greater agency in addressing pressing issues such as those around online safety and information integrity.</p>'
+  image:
+    - file://6ynWvL8PFW7zMkbG
+- 
+  name: Dr. Andrew Iliadis
+  bio: '<p>Dr. Andrew Iliadis is an Associate Professor at Temple University in the Department of Media Studies and Production (within the Klein College of Media and Communication). He is the author of <em>Semantic Media: Mapping Meaning on the Internet</em> (Polity, 2022), co-editor of <em>Embodied Computing: Wearables, Implantables, Embeddables, Ingestibles</em> (MIT Press, 2020), and co-translator of <em>Cybernetics and the Origin of Information</em> (Rowman &amp; Littlefield, 2023).</p>'
+  image:
+    - file://94DsumakheWpaNvL
+- 
+  name: Dr. Steve Jankowski
+  bio: '<p>Dr. Steve Jankowski is Assistant Professor in New Media Histories at the University of Amsterdam and Principal Investigator of the Slow Editing Towards Equity research funded by the Wikimedia Foundation. He received his PhD in Communication and Culture from York University and Toronto Metropolitan University in Canada for his dissertation on Wikipedian consensus and the political design of encyclopedic media. His research examines the intersections between digital culture, design and their connections to imaginaries of democracy and knowledge.</p>'
+  image:
+    - file://3wfqmtZmHyy3X1jg
+- 
+  name: Dr Amanda Lawrence
+  bio: '<p>Dr Amanda Lawrence is Program Director at the Australian Internet Observatory, and Affiliate at the ARC Centre of Excellence for Automated Decision-Making + Society at RMIT University. Her interests include open knowledge systems, libraries, research communication, public policy, Wikimedia and public interest research infrastructure for the humanities and social sciences.</p>'
+  image:
+    - file://W7GNWS4DqdTAOWio
+- 
+  name: Dr Francesca Sidoti
+  bio: '<p>Dr Francesca Sidoti is a Postdoctoral Research Associate with the wikihistories project at University of Technology, Sydney. She is a cultural geography scholar, who specialises in place-oriented, qualitative research across academic and applied settings. She is particularly interested in how places shape and enduringly affect people’s experience, including how this manifests in the digital space.</p>'
+  image:
+    - file://FXL3UvtEi639PWS4
+
+----
+
+Citation: <p>Suggested citation: Ford et al. (2024), ‘<u><strong>A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure</strong></u><strong>’, </strong>University of Technology, Sydney. <a href="https://manifesto.wiki/">https://manifesto.wiki/</a></p>
+
+----
+
+Funding: <p>This research was fully funded by the Australian Government through the Australian Research Council (ARC) Discovery Project grant (project number DP220100662) for the project ‘wikihistories: Wikipedia and the Nation’s Story’.</p>
+
+----
+
+Logos:
+
+- 
+  picture:
+    - file://7n2VkA5BLn9w6ouD
+  name: Wikihistories
+  website: https://wikihistories.net/
+- 
+  picture:
+    - file://CU84acCWI27FAVt8
+  name: Australian Research Council
+  website: https://www.arc.gov.au/
+
+----
+
+Metatitle: A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: qSnoQeYXr994THMA

@@ -1,0 +1,23 @@
+type: writer
+headings:
+  - 3
+toolbar:
+  inline: false
+  marks:
+    - heading
+    - paragraph
+    - bulletList
+    - orderedList
+    - '|'
+    - bold
+    - italic
+    - underline
+    - strike
+    - sup
+    - sub 
+    - '|'
+    - link
+    - email
+    - '|'
+    - iconfont
+help: <small>Heading 3 is for headings and large text.</small>

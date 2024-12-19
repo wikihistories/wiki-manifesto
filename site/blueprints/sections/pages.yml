@@ -1,0 +1,8 @@
+type: pages
+template: home
+text: "<b>{{page.title}}</b>"
+image: 
+  ratio: 16/9
+  cover: true
+size: small
+limit: 20

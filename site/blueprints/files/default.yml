@@ -1,0 +1,20 @@
+type: files
+
+accept:
+  extension: jpg, jpeg, mp4, svg, png, webp
+
+fields:
+  alt:
+    label: Alternative text
+    type: text
+    help: <small>Alternative text is a short written description of an image, and is not visible unless using a screen reader or if the image doesn't load. It is important for accessibility, and is good for SEO.</small>
+  caption:
+    type: writer
+    label: Image caption
+    width: 1/2
+    inline: true
+    toolbar:
+      inline: false
+    marks:
+      - italic
+      - link

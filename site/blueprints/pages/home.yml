@@ -1,0 +1,152 @@
+title: Home
+
+tabs:
+
+  content:
+    label: Content
+    icon: images
+    columns:
+
+      - width: 1
+        fields:
+          subheading:
+            label: Subheading
+            type: writer
+            width: 1/2
+            required: true
+            extends: fields/textblock-basic
+          publishDate:
+            label: Publish date
+            width: 1/2
+            type: date
+            required: true
+          line1:
+            type: line
+          headline1:
+            type: headline
+            label: Introduction
+          introduction:
+            label: Introduction
+            type: writer
+            required: true
+            extends: fields/textblock-regular
+          line2:
+            type: line
+          headline2:
+            type: headline
+            label: Principles
+          principles:
+            label: Principles
+            type: structure
+            required: true
+            columns:
+              heading:
+                width: 1/4
+              description:
+                width: 3/4
+            fields:
+              heading:
+                label: Heading
+                type: writer
+                required: true
+                extends: fields/textblock-basic
+              description:
+                label: Description
+                type: writer
+                required: true
+                extends: fields/textblock-regular
+          line3:
+            type: line
+          headline3:
+            type: headline
+            label: Background
+          background1:
+            label: Background (opening paragraph)
+            type: writer
+            required: true
+            extends: fields/textblock-regular
+          background2:
+            label: Background (collapsed content)
+            type: writer
+            required: true
+            extends: fields/textblock-regular
+          line4:
+            type: line
+          headline4:
+            type: headline
+            label: Contributors
+          contributors:
+            label: Contributors
+            type: structure
+            required: true
+            columns:
+              name:
+                width: 1/4
+              bio:
+                width: 3/4
+            fields:
+              name:
+                label: Name
+                type: text
+                required: true
+              bio:
+                label: Bio
+                type: writer
+                required: true
+                extends: fields/textblock-regular
+              image:
+                label: Image
+                type: files
+                multiple: false
+          line5:
+            type: line
+          headline5:
+            type: headline
+            label: Fine print
+          citation:
+            label: Citation
+            type: writer
+            required: true
+            extends: fields/textblock-regular
+          funding:
+            label: Funding
+            type: writer
+            required: true
+            extends: fields/textblock-regular
+          logos: 
+            label: Logos
+            type: structure
+            style: table
+            columns:
+              picture:
+                width: 1/4
+              name:
+                width: 1/4
+              website:
+                width: 2/4
+            fields:
+              picture:
+                label: Logo
+                type: files
+                multiple: false
+                required: true
+              name:
+                label: Name
+                type: text
+              website:
+                label: Website
+                type: url
+
+
+  media:
+    label: Media Library
+    icon: image
+    sections:
+      gallery:
+        label: Files
+        type: files
+        layout: cards
+        image:
+          cover: true
+
+  seo: seo/page

@@ -1,0 +1,26 @@
+title: A Manifesto for Wikimedia Research
+
+tabs:
+
+  home:
+    label: Pages
+    icon: page
+    columns:
+      left2:
+        width: 1
+        sections:
+          published:
+            extends: sections/pages
+            type: pages
+            headline: Pages
+  
+  footer:
+    label: Global settings
+    icon: globe
+    columns:
+      - width: 1
+        sections:
+          favicon:
+            extends: fields/favicon
+
+  seo: seo/site

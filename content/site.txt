@@ -1,0 +1,61 @@
+Title: A manifesto for Wikimedia research
+
+----
+
+Favicon: - file://qhaLLy0xiHnzrRMt
+
+----
+
+Appleicon: - file://7dtt9doLBnkawxT1
+
+----
+
+Metatemplate: A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure
+
+----
+
+Ogdescription: 
+
+----
+
+Ogsitename: 
+
+----
+
+Ogimage: - file://GwPPomAOMnjvetE8
+
+----
+
+Twittercardtype: summary_large_image
+
+----
+
+Robotsindex: 
+
+----
+
+Robotsfollow: 
+
+----
+
+Robotsarchive: 
+
+----
+
+Robotsimageindex: 
+
+----
+
+Robotssnippet: 
+
+----
+
+Socialmediaaccounts: 

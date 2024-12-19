@@ -1,0 +1,12 @@
+{
+  "name": "markgowing",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/styles.css --jit --purge './site/**/*.php' -w",
+    "build": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/styles.css --jit --purge './site/**/*.php' -m"
+  },
+  "dependencies": {
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^3.4.16",
+    "three": "^0.155.0"
+  }
+}

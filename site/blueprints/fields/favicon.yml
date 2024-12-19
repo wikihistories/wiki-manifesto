@@ -1,0 +1,25 @@
+type: fields
+fields:
+  headline1:
+    type: headline
+    label: Icons
+  favicon:
+    label: Favicon (192x192)
+    type: files
+    multiple: false
+    layout: list
+    image:
+      cover: true
+      ratio: 1/1
+    width: 1/4
+    help: <small>PNG recommended, transparency allowed</small>
+  appleicon:
+    label: Apple Touch Icon (180x180)
+    type: files
+    multiple: false
+    layout: list
+    image:
+      cover: true
+      ratio: 1/1
+    width: 1/4
+    help: <small>PNG, no transparency, corners will be automatically rounded</small>

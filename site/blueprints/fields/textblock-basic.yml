@@ -1,0 +1,5 @@
+type: writer
+inline: true
+toolbar:
+  inline: true
+  marks: none

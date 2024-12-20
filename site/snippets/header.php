@@ -14,7 +14,7 @@
 	<?php snippet('favicons') ?>
 
   <?= css([
-    'assets/css/styles.css?v=1.1',
+    'assets/css/styles.css?v=1.2',
   ]) ?>
 
 </head>

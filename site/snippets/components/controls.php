@@ -1,5 +1,5 @@
 <div id="contents" class="col-span-1 md:col-span-2 border-b -mt-1 md:-mt-[10px] pb-3 md:pb-2">
-	<div class="flex-wrap flex justify-between">
+	<div class="flex-wrap flex justify-between -mb-[1px]">
 		<h4 class="small-text !font-bold">
 			Contents
 		</h4>
@@ -32,8 +32,8 @@
 		</div>
 	</div>
 </div>
-<div id="appearance" class="col-span-1 md:col-span-2 border-b -mt-1 md:mt-[10px] pb-3 md:pb-2">
-	<div class="flex-wrap flex justify-between">
+<div id="appearance" class="col-span-1 md:col-span-2 border-b -mt-1 md:mt-[10px] pb-3 md:pb-2 -mb-[1px]">
+	<div class="flex-wrap flex justify-between -mb-[1px]">
 		<h4 class="small-text !font-bold">
 			Appearance
 		</h4>

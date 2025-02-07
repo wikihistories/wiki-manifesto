@@ -20,7 +20,7 @@ jobs:
 
     - name: Run the build script
       run: |
-        php ./build/index.php ${{ env.REPO_NAME }}
+        php ./build/index.php
         
     - name: Recreate CNAME
       run: |

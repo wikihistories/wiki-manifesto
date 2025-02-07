@@ -22,6 +22,10 @@ jobs:
       run: |
         php ./build/index.php ${{ env.REPO_NAME }}
         
+    - name: Recreate CNAME
+      run: |
+        echo manifesto.wiki > ./docs/CNAME
+    
     - name: Commit files
       run: |
         git config --local user.name ${{ github.actor }}

@@ -125,7 +125,7 @@ Contributors:
 
 ----
 
-Citation: <p>Suggested citation: Ford et al. (2024), ‘<u><strong>A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure</strong></u><strong>’, </strong>University of Technology, Sydney. <a href="https://manifesto.wiki/">https://manifesto.wiki/</a></p>
+Citation: <p>Suggested citation: Ford et al. (2024), ‘<u><strong>A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure</strong></u><strong>’, </strong>University of Technology, Sydney. <a href="https://manifesto.wiki/">https://manifesto.wiki/</a>. <a href="https://doi.org/10.5281/zenodo.15009321">doi:10.5281/zenodo.15009321</a></p>.
 
 ----
 

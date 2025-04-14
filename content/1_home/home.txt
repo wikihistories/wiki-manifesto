@@ -129,7 +129,7 @@ Citation: <p>Suggested citation: Ford et al. (2024), ‘<u><strong>A manifesto f
 
 ----
 
-Funding: <p>This research was fully funded by the Australian Government through the Australian Research Council (ARC) Discovery Project grant (project number DP220100662) for the project ‘wikihistories: Wikipedia and the Nation’s Story’.</p>
+Funding: <p>This research was fully funded by the Australian Government through the Australian Research Council (ARC) Discovery Project grant (project number DP220100662) for the project ‘wikihistories: Wikipedia and the Nation’s Story’. <a href="https://doi.org/10.5281/zenodo.15009320">doi:10.5281/zenodo.15009320</a>.</p>
 
 ----
 

@@ -125,7 +125,7 @@ Contributors:
 
 ----
 
-Citation: <p>Suggested citation: Ford et al. (2024), ‘<u><strong>A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure</strong></u><strong>’, </strong>University of Technology, Sydney. <a href="https://manifesto.wiki/">https://manifesto.wiki/</a>. <a href="https://doi.org/10.5281/zenodo.15009321">doi:10.5281/zenodo.15009321</a>.</p> <p>Read the accompanying commentary: "<a href="https://journals.sagepub.com/doi/10.1177/20539517251357292" target="_blank">Uniting and reigniting critical Wikimedia research</a>" by Steve Jankowski, Heather Ford, Andrew Iliadis and Francesca Sidoti in *Big Data & Society*.</p>
+Citation: <p>Suggested citation: Ford et al. (2024), ‘<u><strong>A manifesto for Wikimedia research: Critically studying Wikimedia as infrastructure</strong></u><strong>’, </strong>University of Technology, Sydney. <a href="https://manifesto.wiki/">https://manifesto.wiki/</a>. <a href="https://doi.org/10.5281/zenodo.15009321">doi:10.5281/zenodo.15009321</a>.<br></p> <p>Read the accompanying commentary: "<a href="https://journals.sagepub.com/doi/10.1177/20539517251357292" target="_blank">Uniting and reigniting critical Wikimedia research</a>" by Steve Jankowski, Heather Ford, Andrew Iliadis and Francesca Sidoti in <em>Big Data & Society</em>.</p>
 
 ----
 
